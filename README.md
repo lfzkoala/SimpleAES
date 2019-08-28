@@ -8,5 +8,6 @@ Basic steps are the following:
 - download the src file
 - cd ./src
 - javac AES.java
-- java AES [encrypt/decrypt] keyFile.txt inputFile.txt
+- java AES [e/d] keyFile.txt inputFile.txt
 
+where e means encrypt, d means decrypt
